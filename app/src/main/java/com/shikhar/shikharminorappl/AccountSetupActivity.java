@@ -28,7 +28,6 @@ Button b1,b2;
        b1.setOnClickListener(this);//next page
        b2.setOnClickListener(this);//add a user
     }
-
     @Override
     public void onClick(View v) {
         if(v==b1)
