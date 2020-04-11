@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874944514498",
+    "firebase_url": "https://shikharminorappl.firebaseio.com",
+    "project_id": "shikharminorappl",
+    "storage_bucket": "shikharminorappl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874944514498:android:5ac174c6a198accfe92e5b",
+        "android_client_info": {
+          "package_name": "com.shikhar.shikharminorappl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874944514498-23v6k16d4v8q7r21tk34ookl8090ovs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkv0y0y0MxUiVHS4TV2c0RbNoA16uZUGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874944514498-23v6k16d4v8q7r21tk34ookl8090ovs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
