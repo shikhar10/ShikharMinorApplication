@@ -15,6 +15,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class AccountSetupActivity extends AppCompatActivity implements View.OnClickListener {
 EditText et1,et2,et3,et4;
 Button b1,b2;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
